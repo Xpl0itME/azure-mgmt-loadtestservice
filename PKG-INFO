@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: azure-mgmt-loadtestservice
-Version: 1.0.0b1
+Version: 1.0.1
 Summary: Microsoft Azure Loadtestservice Management Client Library for Python
 Home-page: https://github.com/Azure/azure-sdk-for-python
 Author: Microsoft Corporation
@@ -38,10 +38,11 @@ Description: # Microsoft Azure SDK for Python
         # Release History
         
         ## 1.0.0b1 (2021-12-06)
+        ## 1.0.1 (2023-11-05)
         
         * Initial Release
         
-Platform: UNKNOWN
+Platform: Pypi
 Classifier: Development Status :: 4 - Beta
 Classifier: Programming Language :: Python
 Classifier: Programming Language :: Python :: 2
