@@ -1,5 +1,5 @@
 # Microsoft Azure SDK for Python
-
+[![Publish Python distributions to PyPI and TestPyPI](https://github.com/ITZMEHIMANSHUKING/azure-mgmt-loadtestservice/actions/workflows/python-publish.yml/badge.svg)](https://github.com/ITZMEHIMANSHUKING/azure-mgmt-loadtestservice/actions/workflows/python-publish.yml)
 This is the Microsoft Azure Loadtestservice Management Client Library.
 This package has been tested with Python 2.7, 3.6+.
 For a more complete view of Azure libraries, see the [azure sdk python release](https://aka.ms/azsdk/python/all).
